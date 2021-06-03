@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc:“Có biết anh nhớ em đến mức nào không? Có biết anh phiền muộn đến thế nào không? Em không cần biết, vì những điều này chỉ nên để anh chịu đựng, anh chỉ cần trong lòng em có anh, chỉ có anh, còn lại tất cả đều giao cho anh gánh vác.”  
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -15,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com/27042003s' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
